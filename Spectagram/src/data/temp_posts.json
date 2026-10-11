@@ -1,0 +1,20 @@
+[
+  {
+    "id": "1",
+    "author": "Apoorv Goyal",
+    "caption": "A spectacular view of a distant galaxy from our observation deck.",
+    "image": "https://images.unsplash.com/photo-1462331940025-496dfbfc7564?w=1200"
+  },
+  {
+    "id": "2",
+    "author": "Ayush Goyal",
+    "caption": "Mission update: our spacecraft has successfully entered orbit.",
+    "image": "https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?w=1200"
+  },
+  {
+    "id": "3",
+    "author": "Mira Chen",
+    "caption": "The stars look incredible tonight. Science and exploration continue!",
+    "image": "https://images.unsplash.com/photo-1516339901601-2e1b62dc0c45?w=1200"
+  }
+]
